@@ -14,7 +14,7 @@ Here's what out tech environment looks like:
 
 You can read more about our Engineering Culture [on Medium](https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d)
 
-Thinks we love ❤️:
+Things we love ❤️:
 - taking care of our Postgres DB: hunting down the N+1, looking into index performance, writing complex but efficient scopes for business-logic
 - linters and automated tools: we add checks for our internal coding standards with eslint and rubocop extensions to ensure code quality
 
