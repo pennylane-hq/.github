@@ -1,5 +1,25 @@
 ## Welcome to Pennylane 👋
 
+We're a fintech startup building the financial OS for SMEs and startups.
+
+We allow business owners to make better decisions and accountants to focus on advising their clients.
+
+Here's what out tech environment looks like:
+- 35 developers working fully remotely from Europe, northern Africa and Middle-east
+- ~40 commits every day through Pull Requests
+- 10 deployments a day, fully automated through CI / CD
+- a monolith Rails / React (TypeScript) main application, and 36 other repos for tooling / data pipelines
+- test coverage : ~85% on Rails, ~5% on the Javascript
+- 2 prod servers and 50 in dev
+
+You can read more about our Engineering Culture [on Medium](https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d)
+
+Thinks we love ❤️:
+- taking care of our Postgres DB: hunting down the N+1, looking into index performance, writing complex but efficient scopes for business-logic
+- linters and automated tools: we add checks for our internal coding standards with eslint and rubocop extensions to ensure code quality
+
+We're hiring for lots of Tech & Product roles, you can find the openings on [our website](https://www.pennylane.com/careers)
+
 <!--
 
 **Here are some ideas to get you started:**
