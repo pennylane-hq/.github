@@ -5,12 +5,11 @@ We're a fintech startup building the financial OS for SMEs and startups.
 We allow business owners to make better decisions and accountants to focus on advising their clients.
 
 Here's what out tech environment looks like:
-- 100 developers working fully remotely from Europe, northern Africa and Middle-east
-- ~80 commits every day through Pull Requests
+- ~200 developers working fully remotely from Europe and the Middle-east
+- ~200 commits every day through Pull Requests
 - 30 deployments a day, fully automated through CI / CD
 - a monolith Rails / React (TypeScript) main application, and 36 other repos for tooling / data pipelines
 - test coverage : ~91.5% of the Rails back-end, ~60% of the Typesript front-end
-- 3 prod servers and 100 in dev
 
 You can read more about our Engineering Culture [on Medium](https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d)
 
